@@ -1,6 +1,7 @@
 # Vector is simply a list of values.
 # R relies on vectors for many of its operations, including basic plots
 # Source:http://tryr.codeschool.com/
+# 12-29-2015
 
 # c create a new vector by combining values
 c(1, 2, 3)
