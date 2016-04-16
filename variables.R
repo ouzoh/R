@@ -1,9 +1,9 @@
 # Assigning value to variable
 
-# GOOD
+# GOOD.
   x <- 50
 
-# BAD
+# BAD.
   x = 50
   
 # Execute code using source("variables.R")
